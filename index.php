@@ -74,6 +74,7 @@ body {
     </head>
 
     <body>
+        <a href="https://kof-phpproject10.herokuapp.com/">https://kof-phpproject10.herokuapp.com/</a>
         
     
         
@@ -87,6 +88,7 @@ body {
 
         
         <img src="img/welcome.png" alt="welcome" width="328" height="328">
+         <h1>118401074 - Katie O Flaherty</h1>
 
      </body>
     
